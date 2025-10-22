@@ -68,7 +68,6 @@ cd client
 npm run dev
 ```
 
-Then visit 👉 [http://localhost:5173](http://localhost:5173)
 
 ## 🧱 Folder Structure
 ```
@@ -80,7 +79,8 @@ admin-dashboard/
 ```
 
 ## 📸 Screenshots
-![Dashboard Preview](./preview.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/91f40343-baf8-4558-80ff-110a6865934d" />
+
 
 ## 📄 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 **BIHAR GOURAV**
